@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TallerProfile</string>
+    <string name="txt1">APPLE INC.</string>
+    <string name="txt2">Cupertino, Estados Unidos</string>
+    <string name="txt3">500</string>
+    <string name="txt4">200</string>
+    <string name="txt5">850</string>
+    <string name="txt6">Historias</string>
+    <string name="txt7">Seguidores</string>
+    <string name="txt8">Siguiendo</string>
+    <string name="item1">MICROSOFT CORPORATION </string>
+    <string name="item2">La visión de Microsoft sobre IA -Inteligencia Artificial- se centra en las personas. Se trata de aumentar el ingenio y las capacidades humanas a través de una tecnología inteligente</string>
+    <string name="item3">SONY CORPORATION</string>
+    <string name="item4">Sony anunciaría en la feria IFA sus propios procesadores.</string>
+    <string name="item5">GOOGLE INC.</string>
+    <string name="item6">Google compite con Amazon con entregas en el mismo día durante las fiestas</string>
+    <string name="item7">SAMSUNG</string>
+    <string name="item8">El Samsung Galaxy Note 8 pasa  Geekbench, y decepciona.</string>
+</resources>
